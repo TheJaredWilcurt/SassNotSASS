@@ -1,4 +1,4 @@
-# Sass, not SASS
+<p align="center"><img src="imgs/meta/mstile03wd.png"></p>
 
 A subtle reminder for others.
 
