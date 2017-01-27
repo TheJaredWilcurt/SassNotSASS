@@ -6,7 +6,8 @@ This project is sponsored by [Scout-App](http://scout-app.io), the open source, 
 
 ## Credits
 
-* [The Jared Wilcurt](http://github.com/TheJaredWilcurt) ([Scout-App.io](http://scout-app.io))
+* Originally created by [@sturobson](http://www.twitter.com/sturobson) ([Sass Blog](http://www.alwaystwisted.com))
+* Updated by [The Jared Wilcurt](http://github.com/TheJaredWilcurt) ([Scout-App.io](http://scout-app.io))
 * [Sass-Lang.com](http://sass-lang.com) - Where I got the logo from.
 
 ## This repo uses:
